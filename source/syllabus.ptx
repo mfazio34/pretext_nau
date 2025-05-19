@@ -5,7 +5,7 @@
   <xi:include href="./docinfo.ptx" />
 
   <article xml:id="syllabus">
-    <title>STA 270: Applied Statistics Syllabus</title>
+    <title>Applied Statistics Syllabus</title>
     <subtitle>Prefix 101</subtitle>
 
     <!-- Include frontmatter -->
